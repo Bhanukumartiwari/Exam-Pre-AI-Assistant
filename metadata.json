@@ -1,0 +1,5 @@
+{
+  "name": "Exam Prep AI Assistant",
+  "description": "An intelligent chatbot and search assistant powered by Gemini, designed to help users prepare for Indian government exams. Get simplified, up-to-date answers on topics like science, history, polity, and current affairs with grounded, real-time information from Google Search.",
+  "requestFramePermissions": []
+}
